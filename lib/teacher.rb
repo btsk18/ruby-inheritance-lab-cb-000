@@ -1,4 +1,4 @@
-import 'user.rb'
+require 'user.rb'
 
 class Teacher < User
 
